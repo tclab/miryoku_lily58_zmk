@@ -61,7 +61,7 @@ U_UND,             U_CUT,             U_CPY,             U_PST,             U_RD
 U_NP,              U_NP,              U_BTN3,            U_BTN1,            U_BTN2,            U_BTN2,            U_BTN1,            U_BTN3,            U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_ACC \
-U_NA,            U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,            \
-&kp J,           U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,            \
-U_NA,            U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,            \
+U_NA,            U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,   \
+&kp J,           U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,   \
+U_NA,            U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,   \
 U_NP,            U_NP,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NA,         U_NP,         U_NP
