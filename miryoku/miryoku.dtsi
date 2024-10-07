@@ -27,6 +27,11 @@
     };
 MIRYOKU_LAYER_LIST
 #undef MIRYOKU_X
+
+    LAYER { \
+      display-name = "Acc"; \
+      bindings = < U_MACRO_VA_ARGS(MIRYOKU_LAYERMAPPING_ACC, MIRYOKU_LAYER_ACC) >; \
+    };
   };
 };
 
