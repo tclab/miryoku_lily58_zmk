@@ -631,3 +631,8 @@ For workflow builds using [[#build-examples][Build Example]] workflows, see the 
 ** 
 
 [[https://github.com/manna-harbour][https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/manna-harbour-boa-32.png]]
+
+
+** Special characters support
+
+Currently using [[https://github.com/samhocevar/wincompose][WinCompose]]
