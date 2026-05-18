@@ -8,7 +8,7 @@ jobs:
     uses: ./.github/workflows/main.yml
     secrets: inherit
     with:
-      board: '["nice_nano_v2"]'
+      board: '["nice_nano//zmk"]'
       shield: '["lily58_left nice_view_adapter nice_view","lily58_right nice_view_adapter nice_view"]'
       alphas: '["QWERTY"]'
       kconfig: '["CONFIG_ZMK_POINTING=y"]'
