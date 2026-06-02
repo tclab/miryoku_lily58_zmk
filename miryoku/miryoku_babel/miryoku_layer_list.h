@@ -18,6 +18,7 @@ MIRYOKU_X(NUM,    "Num") \
 MIRYOKU_X(SYM,    "Sym") \
 MIRYOKU_X(FUN,    "Fun")
 
+
 #define U_BASE   0
 #define U_EXTRA  1
 #define U_TAP    2
